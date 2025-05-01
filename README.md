@@ -1,5 +1,5 @@
 Grupo: 
 
-Marcos Vinicius Maximo da Silva
-Vinicius da Costa Pereira
-Vinicius Viana Gomes
+- Marcos Vinicius Maximo da Silva
+- Vinicius da Costa Pereira
+- Vinicius Viana Gomes
